@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-Welcome to the communit!
+Welcome to the community!
 print("Hello world")
 **nhlanoniem/nhlanoniem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
